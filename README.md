@@ -64,7 +64,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/your-username/ringworm-infection-model.git
+   git clone https://github.com/WMilson/ringworm-infection-model.git
    ```
 2. **Откройте решение** `Life.sln` в Visual Studio.
 3. **Соберите проект:** `Build → Build Solution` (или `Ctrl+Shift+B`).
@@ -159,15 +159,6 @@
 
 - Задача взята из книги: *Ван Тассел Д. Стиль, разработка, эффективность, отладка и испытание программ. – М.: Мир, 1981.*
 - Вдохновение для структуры кода — пример из учебных материалов.
-
----
-
-## 📬 Контакты
-
-Автор: **Ваше Имя**  
-GitHub: [@your-username](https://github.com/your-username)  
-Email: your.email@example.com
-
 ---
 
 ⭐ Если проект оказался полезным, поставьте звёздочку на GitHub!
