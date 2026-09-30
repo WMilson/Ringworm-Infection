@@ -5,7 +5,7 @@ namespace Life
     internal class InfectionModel
     {
         public const int Healthy = 0;
-        public const int Infected = 1;
+        public const int Inf = 1;
         public const int Immune = 2;
 
         private static readonly Random Random = new Random();
@@ -27,7 +27,7 @@ namespace Life
             timers = new int[size, size];
 
             int center = size / 2;
-            states[center, center] = Infected;
+            states[center, center] = Inf;
             timers[center, center] = 0;
         }
 
@@ -65,7 +65,7 @@ namespace Life
             {
                 for (int c = 0; c < size; c++)
                 {
-                    if (states[r, c] == Infected)
+                    if (states[r, c] == Inf)
                     {
                         int newTimer = timers[r, c] + 1;
                         if (newTimer >= 6)
@@ -75,7 +75,7 @@ namespace Life
                         }
                         else
                         {
-                            nextStates[r, c] = Infected;
+                            nextStates[r, c] = Inf;
                             nextTimers[r, c] = newTimer;
                         }
                     }
@@ -106,7 +106,7 @@ namespace Life
             {
                 for (int c = 0; c < size; c++)
                 {
-                    if (states[r, c] == Infected && timers[r, c] < 6)
+                    if (states[r, c] == Inf && timers[r, c] < 6)
                     {
                         // Проверяем всех 8 соседей
                         for (int dr = -1; dr <= 1; dr++)
@@ -123,7 +123,7 @@ namespace Life
                                     {
                                         if (Random.NextDouble() < 0.5)
                                         {
-                                            nextStates[nr, nc] = Infected;
+                                            nextStates[nr, nc] = Inf;
                                             nextTimers[nr, nc] = 0;
                                         }
                                     }
