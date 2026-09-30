@@ -15,3 +15,20 @@ C:\Users\Vova\C# Projects\Z1\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\
 C:\Users\Vova\C# Projects\Z1\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\Life.genruntimeconfig.cache
 C:\Users\Vova\C# Projects\Z1\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\ref\Life.dll
 C:\Users\Vova\C# Projects\Z1\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\Life.csproj.Up2Date
+C:\Users\student_02\Desktop\test\WinFormsApp4\obj\Debug\net8.0-windows\Life.Form1.resources
+C:\Users\student_02\Desktop\test\WinFormsApp4\obj\Debug\net8.0-windows\Life.csproj.GenerateResource.cache
+C:\Users\student_02\Desktop\test\WinFormsApp4\obj\Debug\net8.0-windows\Life.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student_02\Desktop\test\WinFormsApp4\obj\Debug\net8.0-windows\Life.AssemblyInfoInputs.cache
+C:\Users\student_02\Desktop\test\WinFormsApp4\obj\Debug\net8.0-windows\Life.AssemblyInfo.cs
+C:\Users\student_02\Desktop\test\WinFormsApp4\obj\Debug\net8.0-windows\Life.csproj.CoreCompileInputs.cache
+C:\Users\student_02\Desktop\test\WinFormsApp4\obj\Debug\net8.0-windows\Life.sourcelink.json
+C:\Users\student_02\Desktop\test\WinFormsApp4\obj\Debug\net8.0-windows\Life.dll
+C:\Users\student_02\Desktop\test\WinFormsApp4\obj\Debug\net8.0-windows\refint\Life.dll
+C:\Users\student_02\Desktop\test\WinFormsApp4\obj\Debug\net8.0-windows\Life.pdb
+C:\Users\student_02\Desktop\test\WinFormsApp4\bin\Debug\net8.0-windows\Life.exe
+C:\Users\student_02\Desktop\test\WinFormsApp4\bin\Debug\net8.0-windows\Life.deps.json
+C:\Users\student_02\Desktop\test\WinFormsApp4\bin\Debug\net8.0-windows\Life.runtimeconfig.json
+C:\Users\student_02\Desktop\test\WinFormsApp4\bin\Debug\net8.0-windows\Life.dll
+C:\Users\student_02\Desktop\test\WinFormsApp4\bin\Debug\net8.0-windows\Life.pdb
+C:\Users\student_02\Desktop\test\WinFormsApp4\obj\Debug\net8.0-windows\Life.genruntimeconfig.cache
+C:\Users\student_02\Desktop\test\WinFormsApp4\obj\Debug\net8.0-windows\ref\Life.dll
