@@ -118,7 +118,7 @@ namespace Life
                                 int nc = c + dc;
                                 if (nr >= 0 && nr < size && nc >= 0 && nc < size)
                                 {
-                                    // Заразить можно только здоровые клетки
+                                    // Заразить можно только здоровые cells
                                     if (states[nr, nc] == Healthy)
                                     {
                                         if (Random.NextDouble() < 0.5)
